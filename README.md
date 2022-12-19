@@ -10,7 +10,7 @@
   <img align="center" alt="Gabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gabri-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1034154966744584203/1047175485597167636/download20221102124032.png">
+  <img align="right" alt="Gabri-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1054386634356965470/1054386913810845756/robo.png?width=468&height=468">
 </div>
 
 ##
